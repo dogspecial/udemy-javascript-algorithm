@@ -1,0 +1,20 @@
+{
+  "name": "udemy-javascript-algorithm",
+  "version": "1.0.0",
+  "description": "Udemy Javascript Algorithm 문제풀이",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ch02": "node ch02/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogspecial/udemy-javascript-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogspecial/udemy-javascript-algorithm/issues"
+  },
+  "homepage": "https://github.com/dogspecial/udemy-javascript-algorithm#readme"
+}
